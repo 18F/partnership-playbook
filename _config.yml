@@ -61,7 +61,7 @@ repos:
   url: https://github.com/18F/Partnership-Playbook
 
 back_link:
-  url: "https://pages.18f.gov/guides/"
+  url: "https://pages.18f.gov/intake/"
   text: Back to 18F Intake
 
 google_analytics_ua: UA-48605964-19
