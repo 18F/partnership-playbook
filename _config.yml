@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: 18F Guides Template
+name: 18F Partnership Playbook
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -26,41 +26,43 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: The 18F Partnership Playbook
   url: index.html
   internal: true
-- text: Add a new page
-  url: add-a-new-page/
+- text: 1. We build in the open.
+  url: 1-build-in-the-open/
   internal: true
-  children:
-  - text: Make a child page
-    url: make-a-child-page/
-    internal: true
-- text: Add images
-  url: add-images/
+- text: 2. We work with an empowered product owner.
+  url: 2-empowered-product-owner/
   internal: true
-- text: Update the config file
-  url: update-the-config-file/
+- text: 3. We focus on understanding the problem first.
+  url: 3-problem-first/
   internal: true
-  children:
-  - text: Understanding the `baseurl:` property
-    url: understanding-baseurl/
-    internal: true
-- text: GitHub setup
-  url: github-setup/
+- text: 4. We work in an agile way.
+  url: 4-agile/
   internal: true
-- text: Post your guide
-  url: post-your-guide/
+- text: 5. We use user-centered research and design methods.
+  url: 5-user-centered-design/
+  internal: true
+- text: 6. We may revisit the project at a high level if there is a major change in project goals.
+  url: 6-revisit-if-major-goals-change/
+  internal: true
+- text: 7. We transfer projects back to your team for ongoing support.
+  url: 7-transfer-projects-back/
+  internal: true
+- text: 8. We deploy projects using best practice back-end methods and technology.
+  url: 8-best-practice-back-end/
   internal: true
 
+
 repos:
-- name: Guides Template
-  description: Main repository
-  url: https://github.com/18F/guides-template
+- name: Partnership Playbook
+  description: Partnership Playbook
+  url: https://github.com/18F/Partnership-Playbook
 
 back_link:
   url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
+  text: Back to 18F Intake
 
 google_analytics_ua: UA-48605964-19
 

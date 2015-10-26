@@ -1,51 +1,18 @@
 ---
 permalink: /
-title: Introduction
+title: 18F Partnership Playbook
 ---
-Use this template to create [18F Guides](http://pages.18f.gov/guides/)
-and other 18F-branded documentation available on [18F
-Pages](https://pages.18f.gov/). It's structured like an 18F Guides guide,
-and it walks you through the process of creating and publishing an 18F Pages document based on
-the same theme.
+This guide will help you, as an agency, understand what it’s like to work with 18F. The playbook is broken down into eight principles. You'll learn what to expect and get a sense of the challenges you may face when working with a modern digital service team, which will likely be a significantly different experience than working with a contractor. The principles we use in working together are:
 
-The template is derived from [CFPB/DOCter](https://github.com/CFPB/DOCter).
-It uses [Jekyll](http://jekyllrb.com/) as the rendering engine.
+>1. We build in the open.
+2. We work with an empowered product owner.
+3. We focus on understanding the problem first.
+4. We work in an agile way.
+5. We use user-centered research and design methods.
+6. We may revisit the project at a high level if there is a major change in project goals.
+7. We transfer projects back to your team for ongoing support.
+8. We deploy projects using best practice back-end methods and technology.
 
-## Create a new guide/document
+We’ll explain what each principle will mean to you as our partner. We also provide a set of prompting questions in the “How do you know if you’re ready” sections, which you can use with stakeholders to assess potential conflict points that may need to be resolved before we partner.
 
-To get started on a new guide (or other document based on this theme), 
-follow [the "Getting started" instructions in the 18F/guides-template GitHub
-repository](https://github.com/18F/guides-template/#getting-started) to create
-a local clone of this template.
-
-Once you've created a clone, click the _Add a New Page_ entry in the table of
-contents to begin the rest of the steps.
-
-## Update an existing guide/document
-
-__Note: You only need to do this if your existing guide or document is not already
-using the `guides_style_18f` gem or if it does not have an `18f-pages`
-branch.__
-
-Add the [`guides_style_18f` gem](https://github.com/18F/guides-style) to your
-guide's `Gemfile`, if it's not already present. You may also wish to copy the
-`./go` script from the template if your document doesn't already have one.
-
-To receive layout updates, as well as any new styles or scripts associated
-with them, you will need to run `./go update_theme`. Or — if you aren't using
-a `./go` script — you can run `bundle update --source guides_style_18f`
-manually.)
-
-If your repository already has a `gh-pages` branch, you can create an
-`18f-pages` branch from it by running these commands:
-
-```
-$ git checkout -b 18f-pages gh-pages
-$ git push origin 18f-pages
-```
-
-Follow the instructions in _Update the Config File_ to update your
-`_config.yml` accordingly. You may also need to consult the _GitHub Setup_ and
-_Post Your Guide_ chapters to ensure your guide is correctly published to
-`pages.18f.gov` and linked from the main [18F
-Guides](http://pages.18f.gov/guides/) site.
+This playbook is a compliment to the [U.S. Digital Services Playbook](https://playbook.cio.gov).
