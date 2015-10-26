@@ -16,3 +16,6 @@ This guide will help you, as an agency, understand what it’s like to work with
 We’ll explain what each principle will mean to you as our partner. We also provide a set of prompting questions in the “How do you know if you’re ready” sections, which you can use with stakeholders to assess potential conflict points that may need to be resolved before we partner.
 
 This playbook is a compliment to the [U.S. Digital Services Playbook](https://playbook.cio.gov).
+
+
+[Download a PDF version of the Playbook here]({{site.baseurl}}/18FPartnershipPlaybook.pdf)
