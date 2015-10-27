@@ -13,7 +13,7 @@ For larger projects, we may do two to six weeks of research in which we speak di
 Typical user interviews may be: 
 >
 - 45-60 minutes 
-- Preferably in person and in the location that these users regularly interact - with your service (home, coffee shops, the office, etc.)
+- Preferably in person and in the location that these users regularly interact with your service (home, coffee shops, the office, etc.)
 - Typically with two researchers, one to ask questions, one to take notes
 
 Workshops with stakeholders typically:
