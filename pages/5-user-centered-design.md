@@ -20,4 +20,4 @@ Our joint product team will understand if we’re building the right thing by co
 - When is the last time you spoke to your users? Family and friends don’t count.
 - Which users are the priority? (They all can’t be the priority.)
 - Can you recruit three users for us to speak with before our first workshop?
-- Will you allow the project solution to change as we learn from users?
+- Will you allow the project solution to change as you learn from users?

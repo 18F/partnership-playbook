@@ -26,7 +26,7 @@ If there are significant commitments to a **specific solution** before engaging 
 
 ###How do you know if you’re ready to understand the problem first? 
 
->- Are you willing to pay for two to six weeks of user and problem research? 
+>- Are you willing to spend two to six weeks on user and problem research? 
 - Can you identify ways we can immediately start to build a network of users to connect with?
 - Has a specific solution or design direction already been settled on by stakeholders, or are they open to new solutions that might emerge?
 - Is there a date that has already been promised to stakeholders, or is there room for a discovery process?

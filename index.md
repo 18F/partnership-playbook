@@ -2,7 +2,7 @@
 permalink: /
 title: 18F Partnership Playbook
 ---
-This guide will help you, as an agency, understand what it’s like to work with 18F. The playbook is broken down into eight principles. You'll learn what to expect and get a sense of the challenges you may face when working with a modern digital service team, which will likely be a significantly different experience than working with a contractor. The principles we use in working together are:
+This guide will help you, as an agency, understand what it’s like to work with the 18F Delivery team. The playbook is broken down into eight principles. You'll learn what to expect and get a sense of the challenges you may face when working with a modern digital service team, which will likely be a significantly different experience than working with a contractor. The principles we use in working together are:
 
 >1. [We build in the open.]({{site.baseurl}}/1-build-in-the-open/)
 2. [We work with an empowered product owner.]({{site.baseurl}}/2-empowered-product-owner/)

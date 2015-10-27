@@ -18,5 +18,5 @@ We look for a product owner who has already lined up internal stakeholder suppor
 - Does an internal governance process exist that the product owner can use to resolve issues as they arise? Does the product owner have support from your agency’s leadership team with the expectation that they may need to ask for favors?
 - Are there any other large initiatives underway that will pull attention away from the project? 
 - Has your product owner set aside at least 50 percent of their time to work on this project?
-- Are there significant stakeholders who are not yet part of the project?
-- Do you expect it to be difficult to align your stakeholders? 
+- Are there significant stakeholders that should be but are not yet part of the project?
+- Is the product owner able to work with and align stakeholders? 
