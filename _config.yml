@@ -1,0 +1,74 @@
+markdown: redcarpet
+name: 18F Partnership Playbook
+exclude:
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- go
+
+permalink: pretty
+highlighter: rouge
+
+sass:
+  style: :compressed
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: 18F
+  url: https://18f.gsa.gov
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/18f-logo.png
+logoalt: 18F logo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: The 18F Partnership Playbook
+  url: index.html
+  internal: true
+- text: 1. We build in the open
+  url: 1-build-in-the-open/
+  internal: true
+- text: 2. We work with an empowered product owner
+  url: 2-empowered-product-owner/
+  internal: true
+- text: 3. We focus on understanding the problem first
+  url: 3-problem-first/
+  internal: true
+- text: 4. We work in an agile way
+  url: 4-agile/
+  internal: true
+- text: 5. We use user-centered research and design methods
+  url: 5-user-centered-design/
+  internal: true
+- text: 6. We may revisit the project at a high level if there is a major change in project goals
+  url: 6-revisit-if-major-goals-change/
+  internal: true
+- text: 7. We transfer projects back to your team for ongoing support
+  url: 7-transfer-projects-back/
+  internal: true
+- text: 8. We deploy projects using best practice back-end methods and technology
+  url: 8-best-practice-back-end/
+  internal: true
+
+
+repos:
+- name: Partnership Playbook
+  description: Partnership Playbook
+  url: https://github.com/18F/Partnership-Playbook
+
+back_link:
+  url: "https://pages.18f.gov/intake/"
+  text: Back to 18F Intake
+
+google_analytics_ua: UA-48605964-19
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "guides_style_18f_default"
