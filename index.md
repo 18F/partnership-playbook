@@ -1,8 +1,10 @@
 ---
 permalink: /
-title: 18F Partnership Playbook
+title: 18F Delivery: Partnership Playbook
 ---
-This guide will help you, as an agency, understand what it’s like to work with the 18F Delivery team. The playbook is broken down into eight principles. You'll learn what to expect and get a sense of the challenges you may face when working with a modern digital service team, which will likely be a significantly different experience than working with a contractor. The principles we use in working together are:
+This guide will help you, as an agency, understand what it’s like to work with the 18F Delivery team. You'll learn what to expect and get a sense of the challenges you may face when working with a modern digital service team, which will likely be a significantly different experience than working with a contractor. Many of the principles below build on specific plays in the [U.S. Digital Services Playbook](https://playbook.cio.gov), which 18F assisted in authoring.
+
+The principles we use in working together are:
 
 >1. [We build in the open.]({{site.baseurl}}/1-build-in-the-open/)
 2. [We work with an empowered product owner.]({{site.baseurl}}/2-empowered-product-owner/)
@@ -14,8 +16,5 @@ This guide will help you, as an agency, understand what it’s like to work with
 8. [We deploy projects using best practice back-end methods and technology.]({{site.baseurl}}/8-best-practice-back-end/)
 
 We’ll explain what each principle will mean to you as our partner. We also provide a set of prompting questions in the “How do you know if you’re ready” sections, which you can use with stakeholders to assess potential conflict points that may need to be resolved before we partner.
-
-This playbook is a complement to the [U.S. Digital Services Playbook](https://playbook.cio.gov).
-
 
 [Download a PDF version of the Playbook here]({{site.baseurl}}/18FPartnershipPlaybook.pdf)
