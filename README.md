@@ -4,6 +4,8 @@ This guide will help you, as an agency, understand what it’s like to work with
 
 This playbook is a complement to the [U.S. Digital Services Playbook](https://playbook.cio.gov), which some 18F staffers assisted in authoring.
 
+This playbook is a set of markdown files and is published to the web using [18F Pages](https://github.com/18F/pages/).
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
