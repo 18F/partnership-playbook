@@ -2,7 +2,7 @@
 permalink: /2-empowered-product-owner/
 title: 2. We work with an empowered product owner
 ---
-It’s important to us to get a full sense of your organization’s needs and priorities. We know our partners’ challenges can be highly complex and complicated with interoffice and stakeholder relationships. We’ve found that management of this complexity is best performed within your organization. To that end, we ask for one empowered product owner for day-to-day decisions and overall strategy guidance. Having this person named at the very beginning helps us focus on building the best product possible for you. 
+It’s important to us to get a full sense of your organization’s needs and priorities. We know our partners’ challenges can be highly complex and complicated with interoffice and stakeholder relationships. We’ve found that management of this complexity is best performed within your organization. To that end, we ask for one empowered [product owner](https://playbook.cio.gov/#play6) for day-to-day decisions and overall strategy guidance. Having this person named at the very beginning helps us focus on building the best product possible for you. 
 
 ###What does this mean for you?
 We work best with an empowered product owner who can make decisions about the project we’re partnering on. In agile development, a product owner is responsible for project scoping and prioritizing. Our delivery team will rely on the product owner for direction as the project develops. This product owner must be empowered to make decisions about the product. The product owner should be experienced at getting buy-in from other organizational leaders; support should be lined up before our engagement. 
@@ -13,7 +13,7 @@ We look for a product owner who has already lined up internal stakeholder suppor
 
 ###How do you know if you have an empowered product owner? 
 >- Is your product owner experienced with aligning stakeholders within the organization? 
-- Does your product owner have the authority to make decisions about the project?
+- Does your product owner have the [authority to make decisions about the project](https://playbook.cio.gov/#play6)?
 - Has your product owner begun conversations and identified champions with necessary internal agency groups and stakeholders? Is there a diagram or stakeholder map of this? 
 - Does an internal governance process exist that the product owner can use to resolve issues as they arise? Does the product owner have support from your agency’s leadership team with the expectation that they may need to ask for favors?
 - Are there any other large initiatives underway that will pull attention away from the project? 
