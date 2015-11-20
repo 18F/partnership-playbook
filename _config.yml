@@ -50,7 +50,7 @@ navigation:
 - text: 7. We transfer projects back to your team for ongoing support
   url: 7-transfer-projects-back/
   internal: true
-- text: 8. We deploy projects using best practice back-end methods and technology
+- text: 8. We deploy projects using best practice methods and technology
   url: 8-best-practice/
   internal: true
 
