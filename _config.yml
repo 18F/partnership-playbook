@@ -51,7 +51,7 @@ navigation:
   url: 7-transfer-projects-back/
   internal: true
 - text: 8. We deploy projects using best practice back-end methods and technology
-  url: 8-best-practice-back-end/
+  url: 8-best-practice/
   internal: true
 
 
