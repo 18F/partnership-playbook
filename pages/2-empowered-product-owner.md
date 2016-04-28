@@ -1,22 +1,34 @@
 ---
-permalink: /2-empowered-product-owner/
-title: 2. We work with an empowered product owner
+permalink: /2-empowered-agency-leader/
+title: 2. We work with an empowered agency leader
 ---
-It’s important to us to get a full sense of your organization’s needs and priorities. We know our partners’ challenges can be highly complex and complicated with interoffice and stakeholder relationships. We’ve found that management of this complexity is best performed within your organization. To that end, we ask for one empowered [product owner](https://playbook.cio.gov/#play6) for day-to-day decisions and overall strategy guidance. Having this person named at the very beginning helps us focus on building the best product possible for you. 
+Our projects are partnerships between 18F and your agency.
 
-###What does this mean for you?
-We work best with an empowered product owner who can make decisions about the project we’re partnering on. In agile development, a product owner is responsible for project scoping and prioritizing. Our delivery team will rely on the product owner for direction as the project develops. This product owner must be empowered to make decisions about the product. The product owner should be experienced at getting buy-in from other organizational leaders; support should be lined up before our engagement. 
+We come equipped with the latest technologies and techniques to create amazing products. However, to build the right product, we need to have a deep understanding of your organization's needs and priorities. Nobody knows these details better than you. You’re also experts in navigating the complexities of interoffice and stakeholder relationships. To incorporate that knowledge into our partnership, we ask for one empowered agency leader to partner closely with the 18F team as a subject matter expert on your agency. Having this person named at the very beginning helps us focus on building the best product possible for your organization. 
 
-Your product owner and other relevant team members are part of a joint product team with 18F designers, product managers, and developers. We will explore the problem, do research to understand user needs, and design a solution together. Therefore, we look for a product owner who can devote at least 50 percent of their time to the project. The product owner is a core member of the design team and has plenty to do. In addition to participating in workshops, user research, and making product priority decisions, the product owner is also responsible for ensuring the agency recruits users, resolves agency governance issues, collaborates with other internal stakeholders, and more. 
+###As the agency leader, what does this mean for you?
+An empowered agency leader is critical to supporting an agile process. You don’t need to be a manager or have any specific title, but you must have delegated authority from your leadership and the ability to facilitate conversations with stakeholders. You must also have the time for the day-to-day needs of the project so that you can ensure decisions are made in a timely manner.
 
-We look for a product owner who has already lined up internal stakeholder support. Any project will impact a number of internal agency groups and systems, so it will need buy-in and technical integration support from those people. The product owner garners this buy-in and support. Before the engagement starts, the owner should have had conversations with and identified champions in relevant internal groups. Beginning these conversations in the middle of development can grind everything to a halt; they should be well underway by the time a digital service team is brought on board to deliver. We recommend that you map out the relevant stakeholders before embarking on a project.
+Any project will impact a number of internal agency groups and systems, so it will need buy-in and technical integration support from those people. We need your expertise to garner this buy-in and support. Before the engagement starts, you should have had conversations with and identified champions in relevant internal groups. Beginning these conversations in the middle of development can grind everything to a halt; they should be well underway by the time we’re brought on board to deliver. We’re happy to help you understand project dependencies so that you can effectively map out the relevant stakeholders before embarking on a project.
 
-###How do you know if you have an empowered product owner? 
->- Has your product owner set aside at least 50 percent of their time to work on this project?
-- Is your product owner experienced with aligning stakeholders within the organization? 
-- Does your product owner have the [authority to make decisions about the project](https://playbook.cio.gov/#play6)?
-- Has your product owner begun conversations and identified champions with necessary internal agency groups and stakeholders? Is there a diagram or stakeholder map of this? 
-- Does an internal governance process exist that the product owner can use to resolve issues as they arise? Does the product owner have support from your agency’s leadership team with the expectation that they may need to ask for favors?
-- Are there any other large initiatives underway that will pull attention away from the project? 
+You’re also part of the joint product team of 18F designers, product managers, and developers. We will explore the problem, do research to understand user needs, and design a solution together. Therefore, you should devote at least 50 percent of your time to the project; as we’ll look to you for guidance on a daily basis. You’re a core member of the product team and will have plenty to do. In addition to participating in workshops, user research, and making product priority decisions, you’re also responsible for ensuring the agency recruits users, resolving agency governance issues, collaborating with other internal stakeholders, and more. 
+
+###How will our partnership grow?
+In agile development, a [product owner](https://playbook.cio.gov/#play6) is responsible for overseeing the creation and prioritization the “backlog” by the team, a list of “stories” which acts as a dynamic roadmap for the project. As the product is developed, agile feedback cycles surface information that shapes the product's needs. The product owner uses this information to curate the backlog, continually adjusting priorities as the project unfolds.
+
+As you, the agency leader, are exposed to agile while collaborating with the 18F product team, you will assume the role of product owner. Over time you will learn agile methodologies, harness iterative feedback, appropriately define the backlog, and manage shifting priorities from cycle to cycle. The 18F team also relies on the product owner to help define ways that we can validate that the product meets your agency's needs. In short, the product owner is critical in ensuring the success of the project.
+
+These may not be skills you're familiar with, but fear not; the 18F product leads will coach you as you take on the reigns of product ownership. In our experience, this time commitment dramatically shortens the length of a project, reduces overall cost, and creates solutions that help meet project goals. We offer both formal and informal training on becoming a product owner. You will become a savvy, seasoned product owner by the end of the project.
+
+As 18F transitions the product back to your agency at the end of the engagement, you will be able to champion the continued growth of the product through agile development.
+
+
+###How do you know if you have an empowered agency leader?
+>- Have you set aside at least 50 percent of your time to work on this project?
+- Are you experienced with aligning stakeholders within the organization? 
+- Do you have the [authority to make decisions about the project](https://playbook.cio.gov/#play6)?
+- Have you begun conversations and identified champions with necessary internal agency groups and stakeholders? Is there a diagram or stakeholder map of this? 
+- Does an internal governance process exist that you can use to resolve issues that may arise? Do you have support from your agency’s leadership team with the expectation that you may need to ask for favors?
+- Are there any other large initiatives underway that will pull your attention away from the project? 
 - Are there significant stakeholders that should be but are not yet part of the project?
-- Is the product owner able to work with and align stakeholders? 
+- Are you able to work with and align stakeholders? 
