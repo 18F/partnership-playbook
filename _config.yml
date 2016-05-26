@@ -32,8 +32,8 @@ navigation:
 - text: 1. We build in the open
   url: 1-build-in-the-open/
   internal: true
-- text: 2. We work with an empowered product owner
-  url: 2-empowered-product-owner/
+- text: 2. We work with an empowered agency leader
+  url: 2-empowered-agency-leader/
   internal: true
 - text: 3. We focus on understanding the problem first
   url: 3-problem-first/

@@ -7,7 +7,7 @@ This guide will help you, as an agency, understand what it’s like to work with
 The principles we use in working together are:
 
 >1. [We build in the open.]({{site.baseurl}}/1-build-in-the-open/)
-2. [We work with an empowered product owner.]({{site.baseurl}}/2-empowered-product-owner/)
+2. [We work with an empowered agency leader.]({{site.baseurl}}/2-empowered-agency-leader/)
 3. [We focus on understanding the problem first.]({{site.baseurl}}/3-problem-first/)
 4. [We work in an agile way.]({{site.baseurl}}/4-agile/)
 5. [We use user-centered research and design methods.]({{site.baseurl}}/5-user-centered-design/)
