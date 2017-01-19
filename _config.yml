@@ -9,7 +9,6 @@ exclude:
 - go
 
 permalink: pretty
-highlighter: rouge
 
 sass:
   style: :compressed
