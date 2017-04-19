@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'rouge'
+gem 'jekyll', '~> 3.1.0'
 gem 'go_script'
 
 group :jekyll_plugins do
