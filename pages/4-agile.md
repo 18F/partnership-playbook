@@ -9,7 +9,7 @@ Throughout the project, we’ll produce prototypes and/or working code over shor
 
 Through the regular cadence of agile project meetings, we will revisit strategic project goals in order to maintain a shared understanding of the outcomes that constitute success. 
 
-###What does this mean for you?
+### What does this mean for you?
 
 We don’t work from requirement documents. As mentioned above, we engage with problems, conduct discovery research, develop hypotheses, and co-design a potential solution with your product owner. We understand requirements documents are the typical way projects start; if you have them, we’ll look at them and use them as a starting point for a discussion — but not for development.
 
@@ -17,10 +17,9 @@ We build a product backlog of discrete chunks of functionality from the perspect
 
 We also employ principles from the Lean Startup movement, where the assumptions about how a particular piece of functionality supports a business goal or outcome are explicitly articulated and tested. How often we learn from users, and learning whether or not a feature gets us closer to our goals, are the main measures of progress for our work in a sprint. 
 
-
 Every project has deadlines and time constraints. Yet, one of the tradeoffs of building the right thing is that it’s not possible to know ahead of time exactly what features will be in a product by a certain date. By regularly revisiting and prioritizing the outcomes desired in the project, you can help ensure that the most important functionality can be included first. 
 
-###How do you know if you’re ready to work in an agile way? 
+### How do you know if you’re ready to work in an agile way? 
 
 >- Are you willing to have a subset of your target audience use the product before it’s polished?
 - Are you willing to talk about the process of development with outside groups to gather feedback?
