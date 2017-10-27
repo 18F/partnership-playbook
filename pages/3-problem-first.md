@@ -1,6 +1,7 @@
 ---
 permalink: /3-problem-first/
 title: 3. We focus on understanding the problem first
+layout: redirect
 ---
 
 We want to build the right thing, not just anything. We know you probably have a very good idea of what you want us to do, but as your partner, it's important for us to revisit and **understand the problem** as a joint team using user-driven research. The first work we will do as a team is to interview users and agency stakeholders to understand more about the problem, desired goals and outcomes, and your organization’s priorities. We call this “Discovery.” After our initial research, we pull together insights based on what we’ve learned and reframe the problem. At that point, we’re ready to begin designing a solution that works for your users and your agency. 

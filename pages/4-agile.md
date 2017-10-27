@@ -1,6 +1,7 @@
 ---
 permalink: /4-agile/
 title: 4. We work in an agile way
+layout: redirect
 ---
 
 We develop software using [agile](https://pages.18f.gov/agile/) and lean methodologies. Agile software development methods have become the norm in the private sector and differ considerably from the “waterfall” software development method that is dominant in the federal government. In waterfall, agencies write documents with all of the requirements for a project and then a development team codes, tests, and delivers the full product. Agile principles value working code over documentation, iterative development based on validation with the target audience, with focused efforts that deliver value in short sprints that allow for a regular feedback loop. Well-done agile projects are outcome and goal-driven, not feature-driven. When working together, we articulate our goals in terms of outcomes for the user, and then establish a way to gauge if our project meets those goals with qualitative and quantitative assessments that we carry out in each sprint.

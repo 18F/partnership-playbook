@@ -1,6 +1,7 @@
 ---
 permalink: /6-revisit-if-major-goals-change/
 title: 6. We may revisit the project at a high level if there is a major change in project goals
+layout: redirect
 ---
 
 If significant political or stakeholder pressures alter the goals of the project, causing it to veer towards mostly stakeholder design, ignoring a user- and outcome-focused approach, we may need to revisit at a high level.

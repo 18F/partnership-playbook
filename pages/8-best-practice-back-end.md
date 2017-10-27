@@ -1,6 +1,7 @@
 ---
 permalink: /8-best-practice/
 title: 8. We deploy projects using best practice methods and technology
+layout: redirect
 ---
 
 There are some specific technical ways we work that are important for your team to consider when deciding if working with 18F is right for you. 

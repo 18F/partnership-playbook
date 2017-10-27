@@ -1,6 +1,7 @@
 ---
 permalink: /7-transfer-projects-back/
 title: 7. We transfer projects back to your team for ongoing support
+layout: redirect
 ---
 
 We help get new projects and solutions off the ground and work to share our approach and process so your team can continue to support and manage our completed efforts. We do not offer long-term maintenance and support; your team should prepare yourselves or secure resources to take over the work when we are finished. 

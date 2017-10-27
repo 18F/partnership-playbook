@@ -1,6 +1,7 @@
 ---
 permalink: /5-user-centered-design/
 title: 5. We use user-centered research and design methods
+layout: redirect
 ---
 
 It’s important for us to build digital services that solve the needs of users and are enjoyable to use. By the time you’re designing a solution, you should have a solid understanding of the users you’re building for and the problems you’re trying to solve. Though the needs of agency stakeholders are important, the satisfaction of citizens or other end-users are the primary way we measure success.
