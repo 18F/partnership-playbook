@@ -64,9 +64,11 @@ back_link:
 
 google_analytics_ua: UA-48605964-19
 
+theme: guides_style_18f
+
 defaults:
   -
     scope:
       path: ""
     values:
-      layout: "guides_style_18f_default"
+      layout: default
