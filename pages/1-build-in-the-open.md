@@ -1,6 +1,7 @@
 ---
 permalink: /1-build-in-the-open/
 title: 1. We build in the open
+layout: redirect
 ---
 
 18F works in the open [from day one](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/) of a project, and our resulting code is dedicated fully to the public domain. In addition, any contracts 18F enters into where others will develop software on 18F's behalf ensure that all results are dedicated to the public domain. For our international colleagues, 18F also permanently waives all copyright and related rights worldwide to code created by 18F or its contractors.

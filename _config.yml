@@ -9,6 +9,8 @@ exclude:
 markdown: kramdown
 permalink: pretty
 
+redirect: https://18f.gsa.gov/partnership-principles/
+
 sass:
   style: :compressed
 

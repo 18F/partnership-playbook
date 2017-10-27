@@ -1,6 +1,7 @@
 ---
 permalink: /2-empowered-agency-leader/
 title: 2. We work with an empowered agency leader
+layout: redirect
 ---
 Our projects are partnerships between 18F and your agency.
 
